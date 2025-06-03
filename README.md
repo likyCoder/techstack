@@ -9,7 +9,7 @@ EduPortal is a modern, web-based learning management system (LMS) designed to co
 ### Project Screenshots
 
 
-![pic8](techStack/readme)
+![pic8](https://github.com/likyCoder/techstack/blob/main/techStack/assets/images/pic1.png)
 ![pic9](assets/images/pic9.png)
 ![pic10](assets/images/pic10.png)
 

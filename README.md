@@ -9,9 +9,9 @@ EduPortal is a modern, web-based learning management system (LMS) designed to co
 ### Project Screenshots
 
 
-![pic8](https://github.com/likyCoder/techstack/blob/main/techStack/assets/images/pic1.png)
-![pic9](assets/images/pic9.png)
-![pic10](assets/images/pic10.png)
+![pic8](https://github.com/likyCoder/techstack/blob/main/techStack/assets/images/pic8.png)
+![pic9](https://github.com/likyCoder/techstack/blob/main/techStack/assets/images/pic9.png)
+![pic10](https://github.com/likyCoder/techstack/blob/main/techStack/assets/images/pic10.png)
 
 
 - **Secure Authentication**: User registration and login with hashed passwords and session management.
@@ -176,11 +176,12 @@ If you have any questions, suggestions, or feedback, feel free to reach out:
 - 🌐 Website: [https://likysolutions.vercel.app/](https://likysolutions.vercel.app/)
 
 ### other screen shots 
-![pic](assets/images/pic.png)
-![pic1](assets/images/pic1.png)
-![pic2](assets/images/pic2.png)
-![pic3](assets/images/pic3.png)
-![pic4](assets/images/pic4.png)
-![pic5](assets/images/pic5.png)
-![pic6](assets/images/pic6.png)
-![pic7](assets/images/pic7.png)
+![pic](https://github.com/likyCoder/techstack/blob/main/techStack/assets/images/pic.png)
+![pic](https://github.com/likyCoder/techstack/blob/main/techStack/assets/images/pic1.png)
+![pic](https://github.com/likyCoder/techstack/blob/main/techStack/assets/images/pic2.png)
+![pic](https://github.com/likyCoder/techstack/blob/main/techStack/assets/images/pic3.png)
+![pic](https://github.com/likyCoder/techstack/blob/main/techStack/assets/images/pic4.png)
+![pic](https://github.com/likyCoder/techstack/blob/main/techStack/assets/images/pic5.png)
+![pic](https://github.com/likyCoder/techstack/blob/main/techStack/assets/images/pic6.png)
+![pic](https://github.com/likyCoder/techstack/blob/main/techStack/assets/images/pic7.png)
+

@@ -9,7 +9,7 @@ EduPortal is a modern, web-based learning management system (LMS) designed to co
 ### Project Screenshots
 
 
-![pic8](assets/images/pic8.png)
+![pic8](techstack/assets/images/pic8.png)
 ![pic9](assets/images/pic9.png)
 ![pic10](assets/images/pic10.png)
 
